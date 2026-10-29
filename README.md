@@ -19,4 +19,4 @@ Simple Interest = (Principal × Rate × Time) / 100
 ## Usage
 Run the `simple-interest.sh` script in a Bash terminal and enter the requested values.
 
-© 2022 XYZ, Inc.
+© 2023 XYZ, Inc.
